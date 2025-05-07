@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working at NVIDIA.
+I'm currently working at NVIDIA, accelerating digital biology workloads on GPUs through the BioNeMo Framework ([NVIDIA/bionemo-framework](https://github.com/NVIDIA/bionemo-framework))
 
 At NREL, I worked on graph convolutional neural networks for organic and inorganic material design, as well as reinforcement learning methods for generating new candidates. 
 * [NREL/rlmolecule](https://github.com/nrel/rlmolecule)
